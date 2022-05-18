@@ -1,2 +1,2 @@
-import iniStoryshots from '@storybook/addon-storyshots';
-iniStoryshots();
+import initStoryshots from '@storybook/addon-storyshots';
+initStoryshots();
